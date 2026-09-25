@@ -111,4 +111,4 @@ The core ML logic is located in `backend/main.py`. It uses:
 * **Intro (0:00-0:15):** "Meet FairLens AI, the platform ensuring fairness in your AI systems. Today we're analyzing a loan approval dataset."
 * **Detection (0:15-0:30):** "We upload the data and instantly detect a 21% disparity in approvals between genders. FairLens explains this in plain English and flags it as High Risk."
 * **Mitigation (0:30-0:45):** "With one click, we train a debiased model. The platform applies Correlation Removal, dropping the bias by 75% while maintaining 82% accuracy."
-* **Outro (0:45-1:00):** "FairLens AI: Making AI fair, accountable, and transparent."
+* **Outro (0:45-1:00):** "FairLens AI: Making AI fair, accountable, and transparent..."
